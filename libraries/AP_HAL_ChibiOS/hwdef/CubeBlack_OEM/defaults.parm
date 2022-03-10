@@ -1,0 +1,4 @@
+#This file will be the parameter overrides of the standard
+#defaults to match your systems configuration. 
+# Things like output function assignments, auxiliary 
+#RC switches, flight and tuning parameters, etc.
